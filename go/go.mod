@@ -1,4 +1,4 @@
-module gb
+module github.com/black-06/gb
 
 go 1.17
 
