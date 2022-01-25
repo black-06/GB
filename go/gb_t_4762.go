@@ -4,6 +4,10 @@ import (
 	mapset "github.com/deckarep/golang-set"
 )
 
+func init() {
+	RegisterGB("GBT4762", &GBT4762{})
+}
+
 type GBT4762 struct {
 }
 
