@@ -2,7 +2,9 @@ package main
 
 // PDFViewerApplication.save()
 func main() {
-	err := AutoGBT2260()
+	var err error
+
+	err = AutoGBT2260()
 	if err != nil {
 		panic(err)
 	}

@@ -73,5 +73,20 @@
     "responsible_unit": "国家标准化管理委员会",
     "publishing_unit": "全国信息安全标准化技术委员会",
     "remarks": "国家市场监督管理总局、中国国家标准化管理委员会"
+  },
+  "GB_T_4762_1984": {
+    "id": "GB/T 4762-1984",
+    "source": "http://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=70D7C663523807D5EB37A03E97BCCB7B",
+    "name_cn": "政治面貌代码",
+    "name_us": "Codes for political affiliation",
+    "status": "现行",
+    "ccs": "A24",
+    "ics": "35.040",
+    "publishing_date": "1984-11-26",
+    "implementation_date": "1985-10-01",
+    "management_unit": "1985-10-01",
+    "responsible_unit": "国家质量监督检验检疫总局",
+    "publishing_unit": "中国标准化研究院",
+    "remarks": "国家标准局"
   }
 }

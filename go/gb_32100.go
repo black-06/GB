@@ -12,10 +12,6 @@ func (p *GB32100) Fake() string {
 	data := make([]byte, 18)
 	sum := 0
 
-	for data[0] = range RegistrationManagementDepartmentCodeMap {
-		break
-	}
-
 	data[0] = RandByte(RegistrationManagementDepartmentCodes)
 	sum += UnifiedSocialCreditIDCharMap[data[0]] * UnifiedSocialCreditIDPower[0]
 
